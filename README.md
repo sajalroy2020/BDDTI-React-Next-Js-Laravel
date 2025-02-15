@@ -1,1 +1,1 @@
-this project code is very secured you can only access live link. https://beta.bddti.com/
+this project code is very secured you can access only live link. https://beta.bddti.com/
